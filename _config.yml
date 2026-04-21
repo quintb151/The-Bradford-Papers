@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: the-bradford-papers
+title: thebradfordpapers
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Works of Quinton Bradford
+tagline: Works of Quinton P Bradford
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: The Bradford Papers serves as a repository of works from Quinton Bradford. Each work focuses on a different era of history and are under many different forms of methodology in the history field.
+description: The Bradford Papers serves as a repository of works from Quinton Bradford. Each work focuses on a different era of history.
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Quint Bradford
 
